@@ -10,7 +10,7 @@ To build aslr-wrapper:
 
 To build test application:
 
-`% cc -o test-app main.c`
+`% cc -o test-app test.c`
 
 ## Using
 
